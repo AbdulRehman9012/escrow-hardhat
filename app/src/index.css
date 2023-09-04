@@ -1,5 +1,5 @@
 body {
-  background-color: #eee;
+  background-color: #191623;
   display: flex;
   font-family: 'Muli', sans-serif;
 }
@@ -9,13 +9,14 @@ body {
   display: inline-block;
   padding: 40px;
   border: 1px solid #ddd;
-  background-color: #fff;
+  background-color: #141424;
 }
 
 h1 {
   margin: 10px;
   padding: 10px;
   border-bottom: 1px solid #eee;
+  color: #ddd;
 }
 
 label {
@@ -32,7 +33,7 @@ input[type="text"] {
 }
 
 .button {
-  background-color: #f58427;
+  background-color: #434242;
   color: white;
   text-align: center;
   font-weight: bold;
